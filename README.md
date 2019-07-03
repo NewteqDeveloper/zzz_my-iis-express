@@ -3,7 +3,7 @@ This contains the IIS express settings used for my work laptop
 
 # Where is everything located?
 
-These settings must go in the Documents folder of the user under `IIS Express` (e.g. `C:\Users\user.name\Documents\IIS Express`)
+These settings must go in the Documents folder of the user under IIS Express (e.g. `C:\Users\user.name\Documents\IIS Express`)
 
 The following three environment variables are set by iisexpress.exe during the process startup:
   - `%IIS_BIN%` - refers to IIS Express installation folder `(%PROGRAMFILES%\IIS Express)`
