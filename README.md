@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/sample-iis-express-template
+
 # my-iis-express
 This contains the IIS express settings used for my work laptop
 
